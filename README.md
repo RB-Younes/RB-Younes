@@ -24,7 +24,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rb-younes&show_icons=true&locale=en&theme=slateorange" alt="rb-younes" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rb-younes" alt="rb-younes" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=RB-Younes&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rb-younes&theme=slateorange" alt="rb-younes" /></p>
 
