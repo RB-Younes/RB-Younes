@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younes</h1>
-<h3 align="center">👨‍💻 Vision and Intelligent Machine Student at Paris cité University | Visual Computing Engineer</h3>
+<h3 align="center">👨‍💻 Vision and Intelligent Machine Student at Paris cité University 🗼| Visual Computing Engineer</h3>
 
 <img align="right" alt="flower" width="500" src="3aXw.gif">
 
