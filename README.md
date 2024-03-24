@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rb-younes&label=Profile%20views&color=0e75b6&style=flat" alt="rb-younes" /> </p>
 
-- 🌱 I’m currently learning OpenCV (C++) (🐍)✅
+- 🌱 I’m currently learning OpenCV (C++)
 
 - 🎨 Some of my arts are available at [https://www.artstation.com/rllllllllllll](https://www.artstation.com/rllllllllllll)
 
